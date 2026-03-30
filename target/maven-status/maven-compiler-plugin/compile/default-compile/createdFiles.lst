@@ -1,0 +1,5 @@
+com/mateus/MsPoc_Usuarios/Model/UserResponse.class
+com/mateus/MsPoc_Usuarios/Model/User.class
+com/mateus/MsPoc_Usuarios/Repository/UserRepository.class
+com/mateus/MsPoc_Usuarios/Model/UserRequest.class
+com/mateus/MsPoc_Usuarios/MsPocUsuariosApplication.class

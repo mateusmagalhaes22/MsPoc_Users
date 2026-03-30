@@ -1,0 +1,7 @@
+/home/mateusmagalhaes/dev/MsPoc_Users/src/main/java/com/mateus/MsPoc_Usuarios/Model/User.java
+/home/mateusmagalhaes/dev/MsPoc_Users/src/main/java/com/mateus/MsPoc_Usuarios/Model/UserRequest.java
+/home/mateusmagalhaes/dev/MsPoc_Users/src/main/java/com/mateus/MsPoc_Usuarios/Model/UserResponse.java
+/home/mateusmagalhaes/dev/MsPoc_Users/src/main/java/com/mateus/MsPoc_Usuarios/MsPocUsuariosApplication.java
+/home/mateusmagalhaes/dev/MsPoc_Users/src/main/java/com/mateus/MsPoc_Usuarios/Repository/UserRepository.java
+/home/mateusmagalhaes/dev/MsPoc_Users/src/main/java/com/mateus/MsPoc_Usuarios/infra/KafkaConfig.java
+/home/mateusmagalhaes/dev/MsPoc_Users/src/main/java/com/mateus/MsPoc_Usuarios/kafka/UserKafkaConsumer.java
